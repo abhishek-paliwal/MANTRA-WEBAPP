@@ -7,7 +7,7 @@ banner:
   button:
     enable : true
     label : "Contact Us"
-    link : "contact"
+    link : "contact-us"
 
 ######################### Service #####################
 service:
@@ -37,9 +37,7 @@ service:
 
       <p><i><mark>Since starting we have provided meritorious students. Students got selected in IIT’s, Government medical Colleges, NIT, NLU, BITS Pilani as we are focused on delivering conceptual clarity of subject.</mark></i></p>
 
-      <h3>Discipline, Determination, Dedication, Courage, Passion, Enthusiasm, High Spirit, and Emotion are the main pillars of MANTRA Classes that help to make the students shine.</h3>
-
-      "
+      <h3>Discipline, Determination, Dedication, Courage, Passion, Enthusiasm, High Spirit, and Emotion are the main pillars of MANTRA Classes that help to make the students shine.</h3>"
       button:
         enable : false
         label : "Check it out"

@@ -1,6 +1,6 @@
 ######################## default configuration ####################
-baseURL = "http://examplesite.org/"
-title = "Bigspring Light"
+baseURL = "https://www.mantracoaching.in/"
+title = "Mantra Coaching Bhopal"
 theme = "bigspring-light"
 # post pagination
 paginate = "3"
@@ -9,7 +9,7 @@ summaryLength = "15"
 # disqus short name
 disqusShortname = "" # get your shortname form here : https://disqus.com
 # google analytics
-googleAnalytics = "" # example : UA-123-45
+googleAnalytics = "G-YJY1MFRGW7" # example : UA-123-45
 # unsafe html
 [markup.goldmark.renderer]
 unsafe = true
