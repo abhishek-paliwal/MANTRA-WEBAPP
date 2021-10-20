@@ -1,0 +1,20 @@
+# main menu
+[[main]]
+name = "Home"
+url = "/"
+weight = 1
+
+[[main]]
+name = "Our-courses"
+url = "our-courses"
+weight = 2
+
+[[main]]
+name = "Gallery"
+url = "gallery"
+weight = 3
+
+[[main]]
+name = "Contact-us"
+url = "contact-us"
+weight = 4
